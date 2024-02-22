@@ -50,6 +50,6 @@ To start exploring FPGA design with Verilog:
 
 ## Contact
 
-Have questions, suggestions, or want to collaborate? Feel free to reach out to [your email or preferred contact method]. Let's explore the fascinating world of FPGA design together!
+Have questions, suggestions, or want to collaborate? Feel free to reach out to [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-verma-a288392b6) . Let's explore the fascinating world of FPGA design together!
 
 Happy coding and designing!
